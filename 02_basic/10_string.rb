@@ -26,3 +26,8 @@ testing...3
 
 puts paragraph
 puts lines3
+puts "---------------"
+
+weather = 'rainy'
+puts %q(It's #{weather})
+puts %Q(It's #{weather})
