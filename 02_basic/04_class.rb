@@ -1,9 +1,5 @@
 class Ruler
     attr_accessor :length
-
-    def length
-        @length
-    end
 end
 
 ruler = Ruler.new

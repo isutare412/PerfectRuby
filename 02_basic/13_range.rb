@@ -6,4 +6,4 @@ puts (1...5).include?(5)
 ('a'..'c').each do |c|
   print c + ' '
 end
-puts ''
+puts
